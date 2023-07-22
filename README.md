@@ -5,3 +5,7 @@
 ![w6](https://github.com/Kangsoyeong/React_Study/blob/main/img/week6_01.png)
 ![w6](https://github.com/Kangsoyeong/React_Study/blob/main/img/week6_02.png)
 ![w6](https://github.com/Kangsoyeong/React_Study/blob/main/img/week6_03.png)
+
+#### 7주차
+![w7](https://github.com/Kangsoyeong/React_Study/blob/main/img/week7_01.png)
+![w7](https://github.com/Kangsoyeong/React_Study/blob/main/img/week7_02.png)
